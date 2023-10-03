@@ -6,7 +6,7 @@
         "price": 699,
         "colour": "Blue",
         "features": ["Gyro, Vibration, D-pad, Share button"],
-        "powerOn": "true",
+        "powerOn": true,
         "image": "/img/bluecontroller.jpg"
     },
     {
@@ -16,7 +16,7 @@
         "price": 499,
         "colour": "White",
         "features": ["Gyro, Vibration, D-pad"],
-        "powerOn": "true",
+        "powerOn": true,
         "image": "/img/whitecontroller.jpg"
     },
     {
@@ -26,7 +26,7 @@
         "price": 299,
         "colour": "Black",
         "features": ["Vibration, D-pad"],
-        "powerOn": "false",
+        "powerOn": false,
         "image": "/img/360controller.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "price": 99,
         "colour": "Black",
         "features": ["Wired"],
-        "powerOn": "false",
+        "powerOn": false,
         "image": "/img/originalcontroller.jpg"
     }
 ]

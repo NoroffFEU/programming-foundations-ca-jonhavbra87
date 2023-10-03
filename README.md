@@ -9,11 +9,11 @@ My objects has the following properties:
 - Colour (String), the colour of the product
 - Features (Array), the list of properties of the controller
 - Poweron (Boolean), checks if the controller is on or of
-- Functions, I got a cople of functions in my xboxcontroller.js file.
+- Functions, I got a cople of functions in my xboxcontrollers.js file.
 
 Info:
 I have tried to fetch data from a data.json file, and used that to create a website using only JavaScript. I have used som basic styling (same as teacher showed us on lecture week 39).
 
-I have problemsolved the img of the controllers by myself and chatGPT.
+I have problemsolved the image of the controllers by myself and chatGPT.
 
-The buttons in the nav is created by ChatGPT, because I did not manage to create them by myself.
+The buttons in the nav is created by some help by co-student (Henrik Bakke) and styled by me in CSS.
