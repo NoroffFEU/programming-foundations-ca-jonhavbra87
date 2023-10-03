@@ -51,8 +51,8 @@ function powerOn(allControllers) {
 }
 
 
-
-//I manage to create img by myself problemsolving by myself and using chatGPT :)
+// Showing some data on screen using only JS! (+some styling from CSS)
+//I manage to create image by myself problemsolving by myself and help from chatGPT :)
 function renderController(product) {
     const main = document.querySelector("main");
 
