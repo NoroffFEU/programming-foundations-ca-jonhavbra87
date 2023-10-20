@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Blue controller",
+        "brand": "Microsoft",
+        "price": 699,
+        "colour": "Blue",
+        "features": ["Gyro, Vibration, D-pad, Share button"],
+        "powerOn": true,
+        "image": "/img/bluecontroller.jpg"
+    },
+    {
+        "id": "2",
+        "name": "White controller",
+        "brand": "Microsoft",
+        "price": 499,
+        "colour": "White",
+        "features": ["Gyro, Vibration, D-pad"],
+        "powerOn": true,
+        "image": "/img/whitecontroller.jpg"
+    },
+    {
+        "id": "3",
+        "name": "360 controller",
+        "brand": "Microsoft",
+        "price": 299,
+        "colour": "Black",
+        "features": ["Vibration, D-pad"],
+        "powerOn": false,
+        "image": "/img/360controller.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Original controller",
+        "brand": "Microsoft",
+        "price": 99,
+        "colour": "Black",
+        "features": ["Wired"],
+        "powerOn": false,
+        "image": "/img/originalcontroller.jpg"
+    }
+]
